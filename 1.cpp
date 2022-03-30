@@ -4,5 +4,6 @@
 int main() {
   std::cout << "Hello";
   std::cout << "yo" << std::endl;
-  std::printf("Hell");
+  std::printf("Hell \n");
 }
+
